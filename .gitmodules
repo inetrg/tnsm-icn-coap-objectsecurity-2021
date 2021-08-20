@@ -1,0 +1,12 @@
+[submodule "coap/RIOT"]
+	path = coap/RIOT
+	url = https://github.com/cgundogan/RIOT.git
+[submodule "ndn/RIOT"]
+	path = ndn/RIOT
+	url = https://github.com/cgundogan/RIOT.git
+[submodule "oscore/RIOT"]
+	path = oscore/RIOT
+	url = https://github.com/cgundogan/RIOT.git
+[submodule "oscore/liboscore"]
+	path = oscore/liboscore
+	url = https://gitlab.com/cgundogan/liboscore.git
