@@ -13,5 +13,7 @@ In: IEEE Transactions on Network and Service Management (TNSM), IEEE : Piscatawa
   >
   > This paper revisits the current IoT protocol architectures and presents a comparative analysis of protocol stacks that protect request-response transactions. We discuss features and limitations of the different protocols and analyze emerging functional extensions.  We measure the protocol performances of CoAP over Datagram Transport Layer Security (DTLS), OSCORE, and the information-centric Named Data Networking (NDN) protocol on a large-scale IoT testbed in single- and multi-hop scenarios.  Our findings indicate that (a) OSCORE improves on CoAP over DTLS in error-prone wireless regimes due to omitting the  overhead of maintaining security sessions at endpoints,  (b) NDN attains superior robustness and reliability due to its intrinsic network caches and hop-wise retransmissions, and (c) OSCORE/CoAP offers room for improvement and optimization in multiple directions.
 
+Please follow our [Getting Started](getting-started.md) instructions for further information on how to compile and execute the code.
+
 [paper-link]:https://doi.org/10.1109/TNSM.2021.3099902
 [paper-badge]:https://img.shields.io/badge/Paper-IEEE%20Xplore-green
