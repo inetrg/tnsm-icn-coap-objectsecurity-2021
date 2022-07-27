@@ -1,4 +1,4 @@
-# Content Object Security in the Internet of Things: Challenges, Prospects, and Emerging Solutions (IEEE TNSM 2021)
+# Content Object Security in the Internet of Things: Challenges, Prospects, and Emerging Solutions
 
 [![Paper][paper-badge]][paper-link]
 
@@ -6,7 +6,7 @@ This repository contains code and documentation to reproduce experimental result
 
 * Cenk Gündogan, Christian Amsüss, Thomas C. Schmidt, Matthias Wählisch,
 **Content Object Security in the Internet of Things: Challenges, Prospects, and Emerging Solutions**,
-In: IEEE Transactions on Network and Service Management (TNSM), IEEE : Piscataway, NJ, USA, 2021. (in press)
+In: IEEE Transactions on Network and Service Management (TNSM), Vol. 19, No. 1, pp. 538--553, March 2022.
 
   **Abstract**
   > Content objects are confined data elements that carry meaningful information. Massive amounts of content objects are published and exchanged every day on the Internet.  The emerging Internet of Things (IoT) augments the network edge with reading sensors  and controlling actuators that comprise machine-to-machine communication using small data objects. IoT content objects are often messages that fit into single IPv6 datagram. These IoT messages frequently traverse protocol translators at gateways, which break end-to-end transport and security of Internet protocols.  To preserve content security from end to end via gateways and proxies, the IETF recently developed Object Security for Constrained RESTful Environments (OSCORE), which extends the Constrained Application Protocol (CoAP) with content object security features commonly known from Information Centric Networking (ICN).
